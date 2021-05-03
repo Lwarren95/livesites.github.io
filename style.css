@@ -1,0 +1,12 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+#stripe 
+tr:nth-child(even) {background-color: #CCCCCC;}
+
+}
